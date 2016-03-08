@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[Epic Rance]]></title>
         <description><![CDATA[Epic Rance]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.epicrants.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 21:19:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 21:26:12 GMT</lastBuildDate>
+        <atom:link href="http://www.epicrants.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinedf3703074-c41c-4d7c-a2a3-9c8395f5443d/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/319fc7d1-7506-4670-b4f7-35f8a2fb0f12.png">]]></description>
+            <link>http://www.epicrants.com/f3703074-c41c-4d7c-a2a3-9c8395f5443d/index.html</link>
             <guid isPermaLink="false">f3703074-c41c-4d7c-a2a3-9c8395f5443d</guid>
-            <pubDate>Tue, 08 Mar 2016 21:19:18 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2016 21:25:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
