@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'https://www.reddit.com/r/theGrid_io/comments/454q5a/share_your_site_built_on_thegrid/'
-datePublished: '2016-03-17T19:12:56.514Z'
-dateModified: '2016-03-17T19:11:49.215Z'
+datePublished: '2016-03-17T19:13:33.209Z'
+dateModified: '2016-03-17T19:13:05.006Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-17-httpswwwredditcomrthegrid_iocomments454q5ashare_yo.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-17-httpswwwredditcomrthegrid_iocomments454q5ashare_yo.md
-published: true
 url: httpswwwredditcomrthegrid_iocomments454q5ashare_yo/index.html
 _type: Article
 
