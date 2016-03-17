@@ -4,7 +4,7 @@
         <description><![CDATA[Epic Rance]]></description>
         <link>http://www.epicrants.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 18:45:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 19:13:14 GMT</lastBuildDate>
         <atom:link href="http://www.epicrants.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tackling the licencing hurdle DCI created]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.epicrants.com/f3703074-c41c-4d7c-a2a3-9c8395f5443d/index.html</link>
             <guid isPermaLink="false">f3703074-c41c-4d7c-a2a3-9c8395f5443d</guid>
             <pubDate>Thu, 17 Mar 2016 18:44:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://www.reddit.com/r/theGrid_io/comments/454q5a/share_your_site_built_on_thegrid/</p>]]></description>
+            <link>http://www.epicrants.com/httpswwwredditcomrthegrid_iocomments454q5ashare_yo/index.html</link>
+            <guid isPermaLink="false">14e6e89a-c2f6-4e76-a794-75412b3bca73</guid>
+            <pubDate>Thu, 17 Mar 2016 19:12:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
