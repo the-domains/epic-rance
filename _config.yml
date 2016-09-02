@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Rance Costa
+    url: 'http://www.rancecosta.com'
+    type: external
 favicon: null
 title: Epic Rants
 description: Rants by Rance
